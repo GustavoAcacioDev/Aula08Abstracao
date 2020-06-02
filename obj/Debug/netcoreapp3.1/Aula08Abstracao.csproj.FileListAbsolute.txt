@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Aulas SENAI[\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.exe
+C:\Users\User\Desktop\Aulas SENAI[\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.deps.json
+C:\Users\User\Desktop\Aulas SENAI[\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.runtimeconfig.json
+C:\Users\User\Desktop\Aulas SENAI[\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.runtimeconfig.dev.json
+C:\Users\User\Desktop\Aulas SENAI[\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.dll
+C:\Users\User\Desktop\Aulas SENAI[\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.pdb
+C:\Users\User\Desktop\Aulas SENAI[\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Aulas SENAI[\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Aulas SENAI[\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.AssemblyInfo.cs
+C:\Users\User\Desktop\Aulas SENAI[\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Aulas SENAI[\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.dll
+C:\Users\User\Desktop\Aulas SENAI[\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.pdb
+C:\Users\User\Desktop\Aulas SENAI[\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.genruntimeconfig.cache
